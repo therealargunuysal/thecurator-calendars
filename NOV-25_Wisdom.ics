@@ -4,6 +4,9 @@ PRODID:-//The Curator//Wisdom+SelfWork-November-2025//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-CURATOR-VERSION:2025.11
+X-WR-CALNAME:The Curated Calendar: Wisdom
+X-WR-TIMEZONE:Europe/Zurich
+
 BEGIN:VTIMEZONE
 TZID:Europe/Zurich
 X-LIC-LOCATION:Europe/Zurich
