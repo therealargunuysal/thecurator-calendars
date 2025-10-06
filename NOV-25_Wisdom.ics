@@ -1,12 +1,9 @@
 BEGIN:VCALENDAR
+PRODID:-//Comet Assistant//The Curated Calendar: Wisdom & Growth — November 2025//EN
 VERSION:2.0
-PRODID:-//The Curator//Wisdom+SelfWork-November-2025//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-CURATOR-VERSION:2025.11
-X-WR-CALNAME:The Curated Calendar: Wisdom
-X-WR-TIMEZONE:Europe/Zurich
-
+X-WR-CALNAME:The Curated Calendar: Wisdom & Growth — November 2025
 BEGIN:VTIMEZONE
 TZID:Europe/Zurich
 X-LIC-LOCATION:Europe/Zurich
@@ -24,267 +21,103 @@ TZNAME:CET
 DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
-END:VTIMEZONE
-
 BEGIN:VEVENT
-UID:gabor-mate-online-wtbsn-20251122@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251122T180000
-DTEND;TZID=Europe/Zurich:20251122T200000
-SUMMARY:HEALING — Gabor Maté: When the Body Says No (Online)
+find-your-flow-basel-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Find your flow! Festival (Basel)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Consciousness & Healing Festival in der Schweiz. Ort: St. Jakobshalle Basel. Primärquelle: St. Jakobshalle Event-Listing.
+LOCATION:St. Jakobshalle\, Basel\, Schwe
+z TRANSP:TRANSPARE
+BEGIN:VEVENT
+Unordic-headspace-copenhagen-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Nordic headspace conference 2025
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Turn the tide – New approaches to youth mental health. Ort: Christiansborg\, Kopenhagen\, Dänemark. Primärquelle: headspace.dk/nordic-headspa
+e LOCATION:Christiansborg\, Kopenhagen\, Däne
+ark TRANSP:TRANSPA
+BEGIN:VEVENT
+UIgabor-mate-online-wtbsn-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Gabor Maté: When the Body Says No (Online)
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Online-Vortrag zu Stress\, Trauma und Mind-Body-Unity. Primärquelle: drgabormate.com/event
+LOCATION:Onlin
+TRANSP:TRANSPAREN
+BEGIN:VEVENT
+UID:upaya-awareness-in-action-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Upaya: Awareness in Action (Online)
+DTSTART:20251109T190000
+DTEND:20251109T203000
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Online-Programm (Upaya Zen Center). Mitwirkende aus der Achtsamkeits-/Engaged-Buddhism-Community. Zeit in CET. Primärquelle: upaya.org
+LOCATION:Online (Upaya Zen Center)
+TRANSP:TRANSPARENT
+BEGIN:VEVENT
+UID:edinburgh-mindfulness-retreat-online-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Mindfulness Day Retreat (Online)
+DTSTART:20251129T110000
+DTEND:20251129T160000
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Geleiteter Online-Retreat des University of Edinburgh Chaplaincy (3 Sessions: Body Scan\, Movement\, Reflection). Zeit in CET. Primärquelle: epay.ed.ac.
+k LOCATION:Online (hosted by University of Edinburgh Chaplainc
+) TRANSP:TRANSPARE
+BEGIN:VEVENT
+Udavid-whyte-three-sundays-1-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — David Whyte: Three Sundays in November (Online) — Session 1
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Online-Serie zu Poesie\, Führung\, Sinn & Arbeit (3 Termine im November). Primärquelle: davidwhyte.com (Nov 2025 Series
+. LOCATION:Onli
+e TRANSP:TRANSPARE
+BEGIN:VEVENT
+UID:david-whyte-three-sundays-2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — David Whyte: Three Sundays in November (Online) — Session 2
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Zweite Online-Session der November-Serie. Primärquelle: davidwhyte.com (Nov 2025 Series).
 LOCATION:Online
-URL:https://drgabormate.com/events/
-CATEGORIES:Wisdom,Healing,Online
 TRANSP:TRANSPARENT
-DESCRIPTION:Trauma, Stress & Mind/Body-Unity. REINE ONLINE-TEILNAHME.
-END:VEVENT
-
 BEGIN:VEVENT
-UID:gabor-mate-lisbon-myth-normal-20251122@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251122T100000
-DTEND;TZID=Europe/Zurich:20251125T000000
-SUMMARY:HEALING — Gabor Maté: The Myth of Normal (Lisbon, Hybrid)
-LOCATION:Lisbon, Portugal + Online
-URL:https://drgabormate.com/
-CATEGORIES:Wisdom,Healing,Retreat,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Compassionate Inquiry-Retreat (22.–24.11.). EUROPA; ONLINE-TEILNAHME VORAUSSICHTLICH/TEILWEISE MÖGLICH.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:susan-piver-silent-retreat-20251115@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251115T100000
-DTEND;TZID=Europe/Zurich:20251121T000000
-SUMMARY:MINDFULNESS — Susan Piver: Silent Retreat (Provence, Hybrid)
-LOCATION:Digne-les-Bains, Provence + Online
-URL:https://susanpiver.com/
-CATEGORIES:Wisdom,Meditation,Retreat,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Loving-Kindness & Awareness (15.–20.11.). EUROPA; ONLINE-TEILNAHME TEILWEISE MÖGLICH (Mitglieder).
-END:VEVENT
-
-BEGIN:VEVENT
-UID:tara-brach-jack-kornfield-online-20251108@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251108T160000
-DTEND;TZID=Europe/Zurich:20251110T000000
-SUMMARY:MEDITATION — Tara Brach & Jack Kornfield: Heart of Wisdom (Online)
+UID:david-whte-three-sundays-3-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — David Whyte: Three Sundays in November (Online) — Session 3
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Dritte Online-Session der November-Serie. Primärquelle: davidwhyte.com (Nov 2025 Series).
 LOCATION:Online
-URL:https://tarabrach.com/
-CATEGORIES:Wisdom,Meditation,Online
 TRANSP:TRANSPARENT
-DESCRIPTION:Geführte Praxis, Achtsamkeit & Mitgefühl (8.–9.11.). REINE ONLINE-TEILNAHME.
-END:VEVENT
-
 BEGIN:VEVENT
-UID:phil-stutz-tools-online-20251112@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251112T190000
-DTEND;TZID=Europe/Zurich:20251112T210000
-SUMMARY:PRACTICE — Phil Stutz: Tools for Change (Online)
-LOCATION:Online
-URL:https://thetoolsbook.com/
-CATEGORIES:Wisdom,Practice,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Live-Workshop + Q&A. REINE ONLINE-TEILNAHME.
-END:VEVENT
-
+UID:buch-wilhelmi-mindfulness-week-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Mindfulness Meditation Week (Buchinger Wilhelmi)
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251129
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Achtsamkeit\, Lu Jong\, buddhistische Psychologie (Leitung u. a. Tenzin Kalden). Ort: Überlingen\, Bodensee. Primärquelle: buchinger-wilhelmi.com (Events 2025/2
+). LOCATION:Überlingen\, Deutschland (Boden
+ee) TRANSP:TRANSPA
 BEGIN:VEVENT
-UID:rick-rubin-book-release-20251118@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251118T090000
-DTEND;TZID=Europe/Zurich:20251119T000000
-SUMMARY:CREATIVITY — Rick Rubin: Book Release „Creative Life II“
-LOCATION:Global (Buchrelease)
-URL:https://rickrubin.com/
-CATEGORIES:Wisdom,Creativity,Release
+UID:mbsr-swzerland-retreat-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — MBSR-Verband Schweiz Retreat
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251109
+DTSTAMP:20251006T173900Z
+DESCRIPTION:MBSR-Retreat in der Schweiz (3.–8. Nov 2025) gemäss EAMBA-Listung; genaue Location via Veranstalter. Primärquelle: eamba.net
+LOCATION:Schweiz (genauer Ort laut Veranstalter)
 TRANSP:TRANSPARENT
-DESCRIPTION:Zweiter Band zu The Creative Act. GLOBAL ZUGÄNGLICH (keine Präsenz nötig).
-END:VEVENT
-
 BEGIN:VEVENT
-UID:biohacker-summit-hel-20251108@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251108T090000
-DTEND;TZID=Europe/Zurich:20251110T000000
-SUMMARY:FLOW — Biohacker Summit: Conscious Health & Mind (Helsinki, Hybrid)
-LOCATION:Helsinki, Finland + Online
-URL:https://biohackersummit.com/
-CATEGORIES:Wisdom,Flow,Summit,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Longevity, Embodiment, Resilience (8.–9.11.). EUROPA; ONLINE-TEILNAHME MÖGLICH.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:mindvalley-live-tallinn-20251114@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251114T100000
-DTEND;TZID=Europe/Zurich:20251117T000000
-SUMMARY:GROWTH — Mindvalley Live (Tallinn, Hybrid)
-LOCATION:Tallinn, Estonia + Online
-URL:https://www.mindvalley.com/
-CATEGORIES:Wisdom,Growth,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Persönlichkeitsentwicklung (14.–16.11.). EUROPA; ONLINE-TEILNAHME MÖGLICH.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:wisdom2-europe-amsterdam-20251107@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251107T100000
-DTEND;TZID=Europe/Zurich:20251110T000000
-SUMMARY:WISDOM — Wisdom 2.0 Europe (Amsterdam, Hybrid)
-LOCATION:Amsterdam, Netherlands + Online
-URL:https://www.wisdom2.com/
-CATEGORIES:Wisdom,Mindfulness,Leadership,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Präsenz, Purpose & Tech (7.–9.11.). EUROPA; ONLINE-TEILNAHME MÖGLICH.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:eudemonia-summit-20251113@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251113T150000
-DTEND;TZID=Europe/Zurich:20251116T230000
-SUMMARY:WELL-BEING — Eudēmonia Summit (Livestream)
-LOCATION:Online (Livestream aus West Palm Beach, USA)
-URL:https://eudemonia.net/
-CATEGORIES:Wisdom,Wellbeing,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Globales Well-Being-Forum (13.–16.11.). AUSSERHALB EUROPA; ONLINE-TEILNAHME SICHER.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:david-whyte-zurich-20251125@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251125T193000
-DTEND;TZID=Europe/Zurich:20251125T210000
-SUMMARY:POETRY — David Whyte: The Courage to Be (Zürich)
-LOCATION:Zürich, Switzerland
-URL:https://davidwhyte.com/
-CATEGORIES:Wisdom,Poetry,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Abendlesung (25.11.). EUROPA; ONLINE-TEILNAHME DERZEIT NICHT ANGEKÜNDIGT.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:embody-lab-levine-demo-20251104@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251104T200000
-DTEND;TZID=Europe/Zurich:20251104T220000
-SUMMARY:EMBODIMENT — Peter Levine: Somatic Experiencing Demo (Online)
-LOCATION:Online
-URL:https://www.theembodylab.com/
-CATEGORIES:Wisdom,Embodiment,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Live-Demonstration & Nervensystem-Praxis. REINE ONLINE-TEILNAHME.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:deb-dana-polyvagal-20251110@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251110T190000
-DTEND;TZID=Europe/Zurich:20251110T203000
-SUMMARY:HEALING — Deb Dana: Polyvagal Practice (Online)
-LOCATION:Online
-URL:https://www.debdanalcsw.com/
-CATEGORIES:Wisdom,Healing,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Polyvagal-Theorie in der Praxis; Self-Regulation. REINE ONLINE-TEILNAHME.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:tara-brach-radical-compassion-series-202511@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251106T190000
-DTEND;TZID=Europe/Zurich:20251106T200000
-SUMMARY:MEDITATION — Tara Brach: Radical Compassion (Online Series)
-LOCATION:Online
-URL:https://tarabrach.com/
-CATEGORIES:Wisdom,Meditation,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Wöchentliche Study-/Praxis-Sessions im November. REINE ONLINE-TEILNAHME.
-RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=TH
-END:VEVENT
-
-BEGIN:VEVENT
-UID:eckhart-tolle-now-session-20251117@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251117T200000
-DTEND;TZID=Europe/Zurich:20251117T213000
-SUMMARY:CONSCIOUSNESS — Eckhart Tolle: Presence & The Now (Online)
-LOCATION:Online
-URL:https://eckharttolle.com/
-CATEGORIES:Wisdom,Spirituality,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Live-Webinar + Q&A. REINE ONLINE-TEILNAHME.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:joe-dispenza-progressive-online-20251103@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251103T180000
-DTEND;TZID=Europe/Zurich:20251106T230000
-SUMMARY:MANIFESTATION — Joe Dispenza: Progressive Workshop (Online)
-LOCATION:Online
-URL:https://drjoedispenza.com/
-CATEGORIES:Wisdom,Manifestation,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Meditation & Neuro-Change (3.–6.11.). REINE ONLINE-TEILNAHME.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:embody-lab-trauma-summit-20251101@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251101T150000
-DTEND;TZID=Europe/Zurich:20251108T000000
-SUMMARY:HEALING — Somatic Trauma Healing Summit (Online)
-LOCATION:Online
-URL:https://www.theembodylab.com/
-CATEGORIES:Wisdom,Healing,Online
-TRANSP:TRANSPARENT
-DESCRIPTION:Multi-Speaker-Event zu Traumaheilung & Embodiment (1.–7.11.). REINE ONLINE-TEILNAHME.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:yuval-harari-oxford-20251120@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251120T190000
-DTEND;TZID=Europe/Zurich:20251120T210000
-SUMMARY:PHILOSOPHY — Yuval Noah Harari: Future of Consciousness (Oxford, Hybrid)
-LOCATION:Oxford, United Kingdom + Online
-URL:https://www.ynharari.com/
-CATEGORIES:Wisdom,Philosophy,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Vortrag & Livestream (20.11.). EUROPA; ONLINE-TEILNAHME VORGesehen.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ryan-holiday-stoic-retreat-20251109@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251109T100000
-DTEND;TZID=Europe/Zurich:20251113T000000
-SUMMARY:PHILOSOPHY — Ryan Holiday: Stoic Wisdom Retreat (Greece)
-LOCATION:Greece (Retreat, Präsenz)
-URL:https://dailystoic.com/
-CATEGORIES:Wisdom,Philosophy,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Stoizismus, Praxis & Flow (9.–12.11.). EUROPA; KEINE OFFIZIELLE ONLINE-TEILNAHME.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:adam-grant-hidden-potential-live-20251126@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251126T193000
-DTEND;TZID=Europe/Zurich:20251126T210000
-SUMMARY:GROWTH — Adam Grant: Hidden Potential Live (London, Hybrid)
-LOCATION:London, United Kingdom + Online (Podcast-Aufzeichnung)
-URL:https://adamgrant.net/
-CATEGORIES:Wisdom,Growth,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Live-Podcast & Audience (26.11.). EUROPA; VORAUSSICHTLICH ONLINE-STREAM/VERÖFFENTLICHUNG.
-END:VEVENT
-
+Uembody-lab-peter-levine-masterclass-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Peter A. Levine: SE Demonstration (Online\, Embody Lab
+DTSTART;VALUE=DATE:2025111
+DTEND;VALUE=DATE:2025111
+DTSTAMP:20251006T173900
+DESCRIPTION:Live-Online-Demonstration/Teaching zur Traumaheilung (SE). Datum/Teilnahmebedingungen gemäss Eventseite (oft Member-Format). Primärquelle: theembodylab.co
+LOCATION:Online (The Embody Lab
+TRANSP:TRANSPAREN
 END:VCALENDAR
