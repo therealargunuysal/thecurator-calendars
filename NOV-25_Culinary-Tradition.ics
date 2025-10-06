@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+PRODID:-//Comet Assistant//The Curated Calendar: Culinary & Tradition — November 2025//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Curated Calendar: Culinary & Tradition — November 2025
+X-WR-TIMEZONE:Europe/Zurich
+
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:alba-truffle-weekend1-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Alba White Truffle Fair (Weekend 1)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Ikonische Trüffelmesse mit Markt, Auktionen, Kochshows und Verkostungen. Ort: Alba, Italien. Website: fieradeltartufo.org
+LOCATION:Alba, Italien
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alba-truffle-weekend2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Alba White Truffle Fair (Weekend 2)
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Zweites Highlight-Wochenende der Trüffelmesse. Ort: Alba, Italien. Website: fieradeltartufo.org
+LOCATION:Alba, Italien
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alba-truffle-weekend3-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Alba White Truffle Fair (Weekend 3)
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Drittes Highlight-Wochenende mit Rahmenprogramm und Auktionen. Ort: Alba, Italien. Website: fieradeltartufo.org
+LOCATION:Alba, Italien
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alba-truffle-program-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Alba Truffle: Rahmenprogramm
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Workshops, Degustationen, Special Events an Wochenenden gemäss offiziellem Kalender. Ort: Alba, Italien. Website: fieradeltartufo.org
+LOCATION:Alba, Italien
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:biovino-lausanne-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — BioVino: Swiss Organic & Natural Wine Fair (Lausanne)
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Leitmesse für Bio- und Naturweine mit Tastings und Produzentenständen. Ort: Lausanne, Schweiz. Website: biovino.ch
+LOCATION:Lausanne, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:food-and-life-munich-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — FOOD & LIFE München
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Große Genussmesse für regionale Spezialitäten, Manufakturen und Workshops. Ort: München, Deutschland. Website: messe-muenchen.de / food-life.de
+LOCATION:München, Deutschland
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:festivins-belfaux-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Festivins (Salon du Vin)
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Westschweizer Weinmesse mit Degustationen und Direktverkauf. Ort: Belfaux (FR), Schweiz. Website: myswitzerland.com (Festivins)
+LOCATION:Belfaux (FR), Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:divines-vevey-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — DiVINes! (Female Winemakers Fair)
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251109
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Festival und Messe, die Winzerinnen und ihre Weine in den Fokus stellt. Ort: Vevey, Schweiz. Website: swisswine.com (Events)
+LOCATION:Vevey, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bern-wine-fair-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Bern Wine Fair (Termin tba)
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251125
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Traditionsreiche Schweizer Weinmesse; Datum voraussichtlich gemäss Vorjahresplan, bitte Veranstalter-Link prüfen. Ort: Bern, Schweiz.
+LOCATION:Bern, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bbc-good-food-winter-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — BBC Good Food Show Winter
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Leitmesse für Feinkost und Kulinarik mit Showküchen und Produzenten. Ort: Birmingham, UK. Website: thenec.co.uk / bbcgoodfoodshow.com
+LOCATION:Birmingham, Vereinigtes Königreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:street-food-festival-at-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — European Street Food Festival (AT Tour, Termine prüfen)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Großes Street-Food-Tourformat mit Wochenend-Stopps in verschiedenen Städten; lokale Termine vor Reise prüfen. Website: streetfood-festival.eu
+LOCATION:Österreich (verschiedene Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:natural-wine-switzerland-2025@comet.assistant
+SUMMARY:The Curated Calendar: Culinary & Tradition — Natural/Bio Wine Tastings (CH, verschiedene Städte)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T172200Z
+DESCRIPTION:Kleinere Tasting-Events in Zürich, Basel, Romandie; genaue Termine lokal prüfen. Website: swisswine.com (Eventübersicht)
+LOCATION:Schweiz (verschiedene Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+END:VCALENDAR
