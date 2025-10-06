@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+PRODID:-//Comet Assistant//The Curated Calendar: Music & Film — November 2025//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Curated Calendar: Music & Film — November 2025
+X-WR-TIMEZONE:Europe/Zurich
+
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:stockholm-iff-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Stockholm International Film Festival
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T171200Z
+DESCRIPTION:12 Tage internationales Kino mit Premieren und Gesprächen. Ort: Stockholm, Schweden. Website: stockholmfilmfestival.se
+LOCATION:Stockholm, Schweden
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:liff-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Leeds International Film Festival (LIFF 39)
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Großes britisches Filmfestival mit Wettbewerben und Stadtprogramm. Ort: Leeds, UK. Website: leedsfilm.com
+LOCATION:Leeds, Vereinigtes Königreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cork-iff-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Cork International Film Festival (70th)
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Irlands ältestes Filmfestival mit Oscar-qualifizierten Sektionen. Ort: Cork, Irland. Website: corkfilmfest.org
+LOCATION:Cork, Irland
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:idfa-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — IDFA International Documentary Film Festival Amsterdam
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Weltweit führendes Dokumentarfilmfestival mit Wettbewerben und Talks. Ort: Amsterdam, Niederlande. Website: festival.idfa.nl
+LOCATION:Amsterdam, Niederlande
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:giff-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — GIFF Geneva International Film Festival (31st)
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20251006T171200Z
+DESCRIPTION:An der Schnittstelle von Kino, Serien, immersiven Medien. Ort: Genf, Schweiz. Website: giff.ch
+LOCATION:Genf, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gdm-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — GIFF Geneva Digital Market (GDM)
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251107
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Branchenplattform für audiovisuelle Innovation im Rahmen des GIFF. Ort: Genf, Schweiz. Website: giff.ch
+LOCATION:Genf, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:films-for-future-zurich-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Films for Future Festival Zürich
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Film- und Diskursprogramm zu Nachhaltigkeit und Gesellschaft. Ort: Zürich, Schweiz. Website: films-for-future.org
+LOCATION:Zürich, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pitchfork-paris-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Pitchfork Music Festival Paris
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Citywide-Festival für Indie/Avant-Pop/Elektronik. Ort: Paris, Frankreich. Website: pitchforkmusicfestival.fr
+LOCATION:Paris, Frankreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pitchfork-london-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Pitchfork Music Festival London
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251109
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Mehrtägiges Club- und Konzertformat in führenden Venues. Ort: London, UK. Website: pitchforkmusicfestival.co.uk
+LOCATION:London, Vereinigtes Königreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jazznojazz-zurich-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Zurich Jazznojazz (25. Ausgabe)
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251102
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Jazz, Soul, Funk & Clubkultur in Zürich. Website: jazznojazz.ch
+LOCATION:Zürich, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:freeride-film-festival-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — Freeride Film Festival (EU Tour, Nov Stops)
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251121
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Kuratierte Ski- & Snowboard-Filmtour mit EU-Terminen im November (verschiedene Städte). Website: freeride-filmfestival.com
+LOCATION:Europa (verschiedene Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:liff-night-day-of-the-dead-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — LIFF Night/Day of the Dead
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Kultige LIFF-Genremarathons im Rahmen des Festivals. Ort: Leeds, UK. Website: leedsfilm.com
+LOCATION:Leeds, Vereinigtes Königreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:liff-night-day-of-the-dead-2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — LIFF Night/Day of the Dead (zweiter Termin)
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+DTSTAMP:20251006T171200Z
+DESCRIPTION:Zweiter Termin der LIFF-Genremarathons. Ort: Leeds, UK. Website: leedsfilm.com
+LOCATION:Leeds, Vereinigtes Königreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:european-film-festival-network-2025@comet.assistant
+SUMMARY:The Curated Calendar: Music & Film — European Film Festival (Network Editions)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T171200Z
+DESCRIPTION:EU-Netzwerk mit Landes-Editionen im November (prüfe lokale Termine). Website: europeanfilmfestival.eu
+LOCATION:Europa (mehrere Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+END:VCALENDAR
