@@ -1,0 +1,365 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Curator//Art+Design-FULL-November-2025//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Curated Calendar: Art & Design
+X-WR-TIMEZONE:Europe/Zurich
+
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+################################
+# CITY WEEKS / SEASONS
+################################
+BEGIN:VEVENT
+UID:vienna-art-week-20251107@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251115
+SUMMARY:ART — VIENNA ART WEEK (Theme: LEARNING SYSTEMS)
+LOCATION:Across Vienna, Austria
+URL:https://www.viennaartweek.at/en/
+CATEGORIES:Art,Week,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Stadtweites Programm aus Ausstellungen, Performances, Talks. 7–14 Nov 2025.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brussels-design-season-20251101@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+SUMMARY:DESIGN — Brussels Design Season (Citywide)
+LOCATION:Across Brussels, Belgium
+URL:https://www.designseptember.be/
+CATEGORIES:Design,Season,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Zwei Monate Design, Urbanism & Architecture. Dieser Eintrag markiert den gesamten November.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dubai-design-week-aftermath-20251102@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251107
+SUMMARY:DESIGN — Dubai Design Week (Online Highlights)
+LOCATION:Online (Streams & Talks)
+URL:https://www.dubaidesignweek.ae/
+CATEGORIES:Design,Online,Global
+TRANSP:TRANSPARENT
+DESCRIPTION:Kuratiertes Online-Programm: Installationen, Nachhaltigkeit, Talks (2–6 Nov).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dutch-design-week-encore-20251101@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251103
+SUMMARY:DESIGN — Dutch Design Week Encore (Studios & Shows)
+LOCATION:Eindhoven, Netherlands
+URL:https://ddw.nl/
+CATEGORIES:Design,Studios,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Späte Ausstellungen & Studio-Openings bis 2 Nov (Junge Studios, nachhaltige Prototypen).
+END:VEVENT
+
+################################
+# FAIRS / MARKETS / PARCOURS
+################################
+BEGIN:VEVENT
+UID:paris-photo-20251113@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251113T100000
+DTEND;TZID=Europe/Zurich:20251116T200000
+SUMMARY:PHOTOGRAPHY — Paris Photo
+LOCATION:Grand Palais, Paris, France
+URL:https://www.parisphoto.com/
+CATEGORIES:Art,Photography,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Leitmesse für Fotografie mit Talks & Book Sector. 13–16 Nov 2025.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:made-expo-20251119@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251119T093000
+DTEND;TZID=Europe/Zurich:20251122T180000
+SUMMARY:DESIGN — MADE Expo Milano
+LOCATION:Fiera Milano (Rho), Milan, Italy
+URL:https://www.madeexpo.it/en/
+CATEGORIES:Design,Architecture,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Architektur, Materialien, Building Envelope & Innovation. 19–22 Nov 2025.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:artx-lagos-20251106@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251106T100000
+DTEND;TZID=Europe/Zurich:20251109T180000
+SUMMARY:CONTEMPORARY ART — ART X Lagos (Hybrid)
+LOCATION:Federal Palace, Lagos + Online
+URL:https://www.artxlagos.com/
+CATEGORIES:Art,Contemporary,Global
+TRANSP:TRANSPARENT
+DESCRIPTION:Führende afrikanische Kunstmesse, Talks & Performances. 6–9 Nov. Online-Programm üblich.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brussels-design-market-20251122@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251122T100000
+DTEND;TZID=Europe/Zurich:20251123T180000
+SUMMARY:DESIGN — Brussels Design Market (Vintage & Collectible)
+LOCATION:Tour & Taxis, Brussels, Belgium
+URL:https://designmarket.be/uk/
+CATEGORIES:Design,Collectible,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Größter Vintage-Designmarkt Europas. 22–23 Nov 2025.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mad-parcours-20251112@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251112T110000
+DTEND;TZID=Europe/Zurich:20251115T190000
+SUMMARY:DESIGN — MAD Parcours (Downtown Edition)
+LOCATION:Downtown Brussels, Belgium
+URL:https://mad.brussels/
+CATEGORIES:Design,Fashion,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Mode- & Design-Rundgang: Ateliers, Shops & Studios (12–15 Nov).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:art-bologna-20251114@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251118
+SUMMARY:ART — Arte Fiera / Art Bologna
+LOCATION:Bologna, Italy
+URL:https://www.artefiera.it/
+CATEGORIES:Art,Fair,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Moderne & zeitgenössische Kunstmesse Italiens (14–17 Nov).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:design-miami-preview-20251125@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251201
+SUMMARY:DESIGN — Design Miami/ (Preview & Online Viewing)
+LOCATION:Miami Beach + Online
+URL:https://www.designmiami.com/
+CATEGORIES:Design,Collectible,Global
+TRANSP:TRANSPARENT
+DESCRIPTION:Preview-Week & Online Viewing Rooms (25–30 Nov). Europäische Collector-Events parallel.
+END:VEVENT
+
+################################
+# EXHIBITIONS / MUSEUM PROGRAMS
+################################
+BEGIN:VEVENT
+UID:leonora-carrington-palazzo-reale-202511@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+SUMMARY:EXHIBITION — Leonora Carrington (Retrospective)
+LOCATION:Palazzo Reale, Milan, Italy
+URL:https://www.palazzorealemilano.it/
+CATEGORIES:Art,Exhibition,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Große Retrospektive (läuft 20 Sep 2025 – 11 Jan 2026). Dieser Eintrag markiert den November.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vitra-textile-architecture-20251101@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+SUMMARY:ARCHITECTURE — Inside Outside: Textile Architecture (Vitra)
+LOCATION:Vitra Design Museum, Weil am Rhein (DE/CH)
+URL:https://www.design-museum.de/
+CATEGORIES:Architecture,Exhibition,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Architektur & Textil-Konstruktion. Laufzeit über den gesamten November erfasst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bauhaus-dessau-living-machine-20251108@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251201
+SUMMARY:ARCHITECTURE — Bauhaus Dessau: The Living Machine (New Exhibition)
+LOCATION:Bauhaus Museum, Dessau, Germany
+URL:https://www.bauhaus-dessau.de/
+CATEGORIES:Architecture,Exhibition,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Neue Ausstellung zur Utopie des modernen Wohnens. Start 8 Nov – Eintrag markiert den Rest des Monats.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cph-contemporary-sound-space-20251101@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+SUMMARY:INSTALLATION — Copenhagen Contemporary: Sound & Space
+LOCATION:Copenhagen Contemporary, Denmark
+URL:https://copenhagencontemporary.org/
+CATEGORIES:Art,Installation,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Raum, Klang und Materialität – laufende Ausstellung, November sichtbar gemacht.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:loewe-craft-prize-tour-20251101@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+SUMMARY:CRAFT — LOEWE Craft Prize (EU Touring Exhibition)
+LOCATION:Paris & Berlin (venues tba)
+URL:https://craftprize.loewe.com/
+CATEGORIES:Design,Craft,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Preisträgerwerke 2025 auf EU-Tour; November als Viewing-Fenster markiert.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:munich-creative-business-week-special-20251115@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251122
+SUMMARY:DESIGN — Munich Creative Business Week (Special Edition)
+LOCATION:Across Munich, Germany
+URL:https://www.mcbw.de/
+CATEGORIES:Design,Week,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Schwerpunkt „Craft Meets Tech“: Workshops, Talks, Studios (15–21 Nov).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:swiss-craft-design-fair-basel-20251101@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251104
+SUMMARY:CRAFT — Swiss Craft & Design Fair (Basel)
+LOCATION:Basel, Switzerland
+URL:https://www.hdk-bs.ch/
+CATEGORIES:Design,Craft,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Zeitgenössisches Kunsthandwerk – Schweizer Design, Textil, Keramik, Schmuck (1–3 Nov).
+END:VEVENT
+
+################################
+# PROGRAM HIGHLIGHTS / TALKS
+################################
+BEGIN:VEVENT
+UID:open-studios-vienna-20251108@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251108T130000
+DTEND;TZID=Europe/Zurich:20251108T180000
+SUMMARY:ART — Vienna Art Week: Open Studio Days (Day 1)
+LOCATION:Studios across Vienna, Austria
+URL:https://www.viennaartweek.at/en/
+CATEGORIES:Art,Studios,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Künstler*innen öffnen ihre Ateliers. 13:00–18:00 (Tag 1).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:open-studios-vienna-20251109@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251109T130000
+DTEND;TZID=Europe/Zurich:20251109T180000
+SUMMARY:ART — Vienna Art Week: Open Studio Days (Day 2)
+LOCATION:Studios across Vienna, Austria
+URL:https://www.viennaartweek.at/en/
+CATEGORIES:Art,Studios,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Atelier-Rundgänge, 13:00–18:00 (Tag 2).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mak-vienna-turning-pages-20251109@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251109T110000
+DTEND;TZID=Europe/Zurich:20251109T130000
+SUMMARY:ART/BOOKS — MAK Vienna: Turning Pages (Artists’ Books)
+LOCATION:MAK – Museum für angewandte Kunst, Vienna
+URL:https://www.mak.at/
+CATEGORIES:Art,Books,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Sonderprogramm zu Künstlerbüchern im Rahmen der Vienna Art Week (11:00–13:00).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vitra-catwalk-lecture-20251115@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251115T140000
+DTEND;TZID=Europe/Zurich:20251115T160000
+SUMMARY:FASHION/DESIGN — Vitra Design Museum: The Art of the Image (Lecture)
+LOCATION:Vitra Design Museum, Weil am Rhein (DE/CH)
+URL:https://www.design-museum.de/en/information/calendar.html
+CATEGORIES:Design,Fashion,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Begleitprogramm zur Ausstellung „Catwalk – The Art of the Fashion Show“.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vitra-catwalk-performance-20251122@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;TZID=Europe/Zurich:20251122T140000
+DTEND;TZID=Europe/Zurich:20251122T160000
+SUMMARY:FASHION/DESIGN — Vitra Design Museum: Living the Persona (Performance)
+LOCATION:Vitra Design Museum, Weil am Rhein (DE/CH)
+URL:https://www.design-museum.de/en/information/calendar.html
+CATEGORIES:Design,Performance,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Performance im Rahmen von „Catwalk“. 14:00–16:00.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:buch-wien-20251113@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251117
+SUMMARY:BOOKS — BUCH WIEN (Vienna Book Fair & Reading Festival)
+LOCATION:Messe Wien + City Venues, Vienna
+URL:https://www.buchwien.at/
+CATEGORIES:Books,Culture,Europe
+TRANSP:TRANSPARENT
+DESCRIPTION:Internationale Buchmesse & Lesefestwoche. Hinweis: Programm/Zeiten bitte vorab prüfen.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tokyo-design-art-fair-ovr-20251115@thecurator
+DTSTAMP:20251006T120000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251121
+SUMMARY:DESIGN/ART — Tokyo Design Art Fair (Online Viewing Rooms)
+LOCATION:Online (Tokyo-based)
+URL:https://designart.jp/
+CATEGORIES:Design,Online,Global
+TRANSP:TRANSPARENT
+DESCRIPTION:Asienfokus – neue Studios, Sammler*innen-taugliche Online Viewing Rooms (15–20 Nov).
+END:VEVENT
+
+END:VCALENDAR
