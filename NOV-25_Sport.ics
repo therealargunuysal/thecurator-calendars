@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
+PRODID:-//Comet Assistant//The Curated Calendar: Sport & Prestige — November 2025//EN
 VERSION:2.0
-PRODID:-//The Curator//Sport&Prestige-November-2025//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:The Curated Calendar: Sport & Prestige
+X-WR-CALNAME:The Curated Calendar: Sport & Prestige — November 2025
 X-WR-TIMEZONE:Europe/Zurich
 
 BEGIN:VTIMEZONE
@@ -26,237 +26,223 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-UID:wta-finals-20251101@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251101T100000
-DTEND;TZID=Europe/Zurich:20251108T230000
-SUMMARY:TENNIS — WTA Finals (Riyadh, 1–8 Nov)
-LOCATION:Riyadh, Saudi Arabia
-URL:https://www.wtatennis.com/tournaments/808/wta-finals/2025
-CATEGORIES:Tennis,Finals,Global
+UID:atp-finals-turin-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Nitto ATP Finals (Turin)
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Saisonfinale der besten acht Einzelspieler und Doppelteams der ATP. Ort: Turin, Italien. Website: atptour.com
+LOCATION:Turin, Italien
 TRANSP:TRANSPARENT
-DESCRIPTION:Saisonabschluss der WTA (Indoor Hard). Offiziell: 1–8 Nov 2025.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:rolex-paris-masters-final-20251102@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251102T150000
-DTEND;TZID=Europe/Zurich:20251102T180000
-SUMMARY:TENNIS — Rolex Paris Masters Final (Paris)
-LOCATION:Paris La Défense Arena, Paris
-URL:https://www.rolexparismasters.com/en
-CATEGORIES:Tennis,Masters1000,Europe
+UID:bjkc-finals-sevilla-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Billie Jean King Cup Finals
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Team-Weltmeisterschaft im Damentennis, Finalrunde. Ort: Sevilla, Spanien. Website: billiejeankingcup.com
+LOCATION:Sevilla, Spanien
 TRANSP:TRANSPARENT
-DESCRIPTION:Finale des ATP Masters 1000 Paris (Turnier: 25 Okt–2 Nov 2025).
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ucl-md4-early-20251104@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251104T184500
-DTEND;TZID=Europe/Zurich:20251104T204500
-SUMMARY:FOOTBALL — UEFA Champions League MD4 (Early Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 4 (4 Nov). Frühe Anstosszeit 18:45 CET. (Matches verteilt über Europa.)
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md4-late-20251104@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251104T210000
-DTEND;TZID=Europe/Zurich:20251104T230000
-SUMMARY:FOOTBALL — UEFA Champions League MD4 (Late Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 4 (4 Nov). Späte Anstosszeit 21:00 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md4-early-20251105@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251105T184500
-DTEND;TZID=Europe/Zurich:20251105T204500
-SUMMARY:FOOTBALL — UEFA Champions League MD4 (Early Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 4 (5 Nov). Frühe Anstosszeit 18:45 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md4-late-20251105@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251105T210000
-DTEND;TZID=Europe/Zurich:20251105T230000
-SUMMARY:FOOTBALL — UEFA Champions League MD4 (Late Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 4 (5 Nov). Späte Anstosszeit 21:00 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:melbourne-cup-20251104@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251104T050000
-DTEND;TZID=Europe/Zurich:20251104T060000
-SUMMARY:HORSE RACING — Melbourne Cup (Flemington)
-LOCATION:Flemington Racecourse, Melbourne
-URL:https://www.vrc.com.au/melbourne-cup-carnival/melbourne-cup-carnival-2025/
-CATEGORIES:HorseRacing,Iconic,Global
-TRANSP:TRANSPARENT
-DESCRIPTION:„The Race that stops a nation“ (Australien). Flagship-Rennen (1. Di im Nov).
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f1-sao-paulo-gp-race-20251109@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251109T210000
-DTEND;TZID=Europe/Zurich:20251109T230000
-SUMMARY:F1 — São Paulo Grand Prix (Race)
-LOCATION:Autódromo José Carlos Pace, São Paulo
-URL:https://www.formula1.com/en/racing/2025/brazil
-CATEGORIES:Motorsport,F1,Global
-TRANSP:TRANSPARENT
-DESCRIPTION:Rennstart 21:00 CET (Race Day So, 9 Nov). Quelle: F1 schedule.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:atp-finals-20251109@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251109T113000
-DTEND;TZID=Europe/Zurich:20251116T230000
-SUMMARY:TENNIS — ATP Finals (Turin, 9–16 Nov)
-LOCATION:Inalpi Arena, Turin, Italy
-URL:https://tickets.nittoatpfinals.com/en/schedule/
-CATEGORIES:Tennis,Finals,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Saisonabschluss der ATP, Sessions täglich (Round Robin bis Final).
-END:VEVENT
-
-BEGIN:VEVENT
-UID:surf-sunset-pro-20251119@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;VALUE=DATE:20251119
-DTEND;VALUE=DATE:20251127
-SUMMARY:SURFING — Sunset Pro (Event Window)
-LOCATION:Sunset Beach, O‘ahu (Hawaii)
-URL:https://surfmuseumhawaii.com/hawaii-surf-contest-schedule/
-CATEGORIES:Surfing,Prestige,Global
-TRANSP:TRANSPARENT
-DESCRIPTION:WSL QS/Challenger-Level Event Window 19–26 Nov (Hawaii). Times TBA; All-Day Window.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:polo-argentine-open-20251101@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;VALUE=DATE:20251101
-DTEND;VALUE=DATE:20251207
-SUMMARY:POLO — Argentine Open (Palermo) — Weekends
-LOCATION:Campo Argentino de Polo, Buenos Aires
-URL:https://www.pololine.com/news/the-aap-revealed-the-dates-of-the-2025-triple-crown-in-argentina/
-CATEGORIES:Polo,Iconic,Global
-TRANSP:TRANSPARENT
-DESCRIPTION:Wichtigstes Poloturnier der Welt (31 Okt–6 Dez). Spieltage primär an Wochenenden im Nov.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:davis-cup-final8-20251118@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;VALUE=DATE:20251118
-DTEND;VALUE=DATE:20251124
-SUMMARY:TENNIS — Davis Cup Final 8 (Bologna, 18–23 Nov)
-LOCATION:BolognaFiere, Bologna, Italy
-URL:https://www.daviscup.com/en/news/336593.aspx
-CATEGORIES:Tennis,Teams,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:Viertel-, Halbfinals & Finale der Nationalteams (Final 8).
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f1-las-vegas-gp-race-20251123@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251123T050000
-DTEND;TZID=Europe/Zurich:20251123T070000
-SUMMARY:F1 — Las Vegas Grand Prix (Race)
-LOCATION:Las Vegas Strip Circuit, USA
-URL:https://www.formula1.com/en/racing/2025/las-vegas
-CATEGORIES:Motorsport,F1,Global
-TRANSP:TRANSPARENT
-DESCRIPTION:Nacht-Rennen: Sa 20:00 PST = So 05:00–07:00 CET (23 Nov).
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md5-early-20251125@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251125T184500
-DTEND;TZID=Europe/Zurich:20251125T204500
-SUMMARY:FOOTBALL — UEFA Champions League MD5 (Early Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 5 (25 Nov). Frühe Anstosszeit 18:45 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md5-late-20251125@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251125T210000
-DTEND;TZID=Europe/Zurich:20251125T230000
-SUMMARY:FOOTBALL — UEFA Champions League MD5 (Late Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 5 (25 Nov). Späte Anstosszeit 21:00 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md5-early-20251126@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251126T184500
-DTEND;TZID=Europe/Zurich:20251126T204500
-SUMMARY:FOOTBALL — UEFA Champions League MD5 (Early Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 5 (26 Nov). Frühe Anstosszeit 18:45 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ucl-md5-late-20251126@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;TZID=Europe/Zurich:20251126T210000
-DTEND;TZID=Europe/Zurich:20251126T230000
-SUMMARY:FOOTBALL — UEFA Champions League MD5 (Late Kickoffs)
-LOCATION:Across Europe
-URL:https://www.uefa.com/uefachampionsleague/
-CATEGORIES:Football,UEFA,Europe
-TRANSP:TRANSPARENT
-DESCRIPTION:League Phase Matchday 5 (26 Nov). Späte Anstosszeit 21:00 CET.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f1-qatar-gp-20251130@thecurator
-DTSTAMP:20251006T120000Z
-DTSTART;VALUE=DATE:20251130
+UID:davis-cup-malaga-final8-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Davis Cup Final 8
+DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251201
-SUMMARY:F1 — Qatar Grand Prix (Race) — Time TBA
-LOCATION:Lusail International Circuit, Qatar
-URL:https://f1experiences.com/2025-qatar-grand-prix
-CATEGORIES:Motorsport,F1,Global
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Viertelfinals bis Finale der Tennis-Team-WM. Ort: Málaga, Spanien. Website: daviscup.com
+LOCATION:Málaga, Spanien
 TRANSP:TRANSPARENT
-DESCRIPTION:Rennsonntag 30 Nov (Uhrzeit tba; Nacht-Start erwartet). CET wird automatisch angepasst nach Bekanntgabe.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ucl-groupstage-nov-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Champions League (Gruppenphase, Nov-Spieltage)
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251106
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Topspiele der Gruppenphase, Anstoßzeiten CET. Weitere Spieltage: 25.–26.11. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ucl-groupstage-nov2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Champions League (Gruppenphase)
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Weitere Spieltage der Gruppenphase. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uel-groupstage-nov-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Europa League (Gruppenphase)
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Donnerstagabend in Europa, Gruppenphase. Nächster Spieltag: 27.11. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uel-groupstage-nov2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Europa League (Gruppenphase)
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Später November-Spieltag der EL-Gruppenphase. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uecl-groupstage-nov-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Europa Conference League (Gruppenphase)
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Gruppenphase des dritten Europapokals. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uecl-groupstage-nov2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Europa Conference League (Gruppenphase)
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Weitere Spieltage im November. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uwcl-groupstage-nov-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Women’s Champions League (Gruppenphase)
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251113
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Topklubfußball der Frauen, Anstoßzeiten CET. Weitere Spieltage: 26.–27.11. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uwcl-groupstage-nov2-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — UEFA Women’s Champions League (Gruppenphase)
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Späte November-Spieltage der UWCL. Website: uefa.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rolex-paris-masters-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Rolex Paris Masters (ATP 1000)
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Letzter Masters-Event vor den ATP Finals. Ort: Paris, Frankreich. Website: atptour.com / rolandgarros.com
+LOCATION:Paris, Frankreich
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:premier-league-highlights-nov-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Premier League/LaLiga/Bundesliga (Ligaspieltage)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Wochenendspieltage mit Topduellen; genaue Paarungen laut Liga-Spielplänen. Websites: premierleague.com, bundesliga.com, laliga.com
+LOCATION:Europa (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rugby-autumn-internationals-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Rugby Autumn Internationals
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251130
+DTSTAMP:20251006T173000Z
+DESCRIPTION:End-of-year Tests in UK, Irland, Frankreich, Italien. Website: world.rugby
+LOCATION:Europa (mehrere Länder)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:swiss-national-league-icehockey-nov-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Swiss National League (Eishockey, Topspiele)
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Topspiele der Schweizer National League; exakte Paarungen im offiziellen Spielplan. Website: nationalleague.ch
+LOCATION:Schweiz (diverse Städte)
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-sao-paulo-gp-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Formula 1 São Paulo Grand Prix
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Klassisches F1-Wochenende in Interlagos (Zeitzonen-Umrechnung beachten). Website: formula1.com
+LOCATION:São Paulo, Brasilien
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-las-vegas-gp-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Formula 1 Las Vegas Grand Prix
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251123
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Nightrace auf dem Las Vegas Strip (CET-Umrechnung beachten). Website: formula1.com
+LOCATION:Las Vegas, USA
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-qatar-gp-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Formula 1 Qatar Grand Prix
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Saisonendphase in Lusail (Zeitzonen-Umrechnung beachten). Website: formula1.com
+LOCATION:Lusail, Katar
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dp-world-tour-championship-2025@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — DP World Tour Championship
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Saisonfinale der DP World Tour. Ort: Dubai, VAE. Website: europeantour.com
+LOCATION:Dubai, Vereinigte Arabische Emirate
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ballon-dor-2025-tbc@comet.assistant
+SUMMARY:The Curated Calendar: Sport & Prestige — Ballon d’Or 2025 (tbc)
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+DTSTAMP:20251006T173000Z
+DESCRIPTION:Vergabe von France Football; Datum voraussichtlich gemäss Vorjahresplan, offizielle Bestätigung abwarten. Ort: Paris, Frankreich. Website: francefootball.fr
+LOCATION:Paris, Frankreich
+TRANSP:TRANSPARENT
 END:VEVENT
 
 END:VCALENDAR
