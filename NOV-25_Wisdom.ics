@@ -4,6 +4,8 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:The Curated Calendar: Wisdom & Growth — November 2025
+X-WR-TIMEZONE:Europe/Zurich
+
 BEGIN:VTIMEZONE
 TZID:Europe/Zurich
 X-LIC-LOCATION:Europe/Zurich
@@ -21,33 +23,41 @@ TZNAME:CET
 DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
+END:VTIMEZONE
+
 BEGIN:VEVENT
-find-your-flow-basel-2025@comet.assistant
+UID:find-your-flow-basel-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — Find your flow! Festival (Basel)
 DTSTART;VALUE=DATE:20251101
 DTEND;VALUE=DATE:20251103
 DTSTAMP:20251006T173900Z
 DESCRIPTION:Consciousness & Healing Festival in der Schweiz. Ort: St. Jakobshalle Basel. Primärquelle: St. Jakobshalle Event-Listing.
-LOCATION:St. Jakobshalle\, Basel\, Schwe
-z TRANSP:TRANSPARE
+LOCATION:St. Jakobshalle, Basel, Schweiz
+TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-Unordic-headspace-copenhagen-2025@comet.assistant
+UID:nordic-headspace-copenhagen-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — Nordic headspace conference 2025
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 DTSTAMP:20251006T173900Z
-DESCRIPTION:Turn the tide – New approaches to youth mental health. Ort: Christiansborg\, Kopenhagen\, Dänemark. Primärquelle: headspace.dk/nordic-headspa
-e LOCATION:Christiansborg\, Kopenhagen\, Däne
-ark TRANSP:TRANSPA
+DESCRIPTION:Turn the tide – New approaches to youth mental health. Ort: Christiansborg, Kopenhagen, Dänemark. Primärquelle: headspace.dk/nordic-headspace
+LOCATION:Christiansborg, Kopenhagen, Dänemark
+TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-UIgabor-mate-online-wtbsn-2025@comet.assistant
+UID:gabor-mate-online-wtbsn-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — Gabor Maté: When the Body Says No (Online)
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
 DTSTAMP:20251006T173900Z
-DESCRIPTION:Online-Vortrag zu Stress\, Trauma und Mind-Body-Unity. Primärquelle: drgabormate.com/event
-LOCATION:Onlin
-TRANSP:TRANSPAREN
+DESCRIPTION:Online-Vortrag zu Stress, Trauma und Mind-Body-Unity. Primärquelle: drgabormate.com/events
+LOCATION:Online
+TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
 UID:upaya-awareness-in-action-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — Upaya: Awareness in Action (Online)
@@ -57,24 +67,30 @@ DTSTAMP:20251006T173900Z
 DESCRIPTION:Online-Programm (Upaya Zen Center). Mitwirkende aus der Achtsamkeits-/Engaged-Buddhism-Community. Zeit in CET. Primärquelle: upaya.org
 LOCATION:Online (Upaya Zen Center)
 TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
 UID:edinburgh-mindfulness-retreat-online-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — Mindfulness Day Retreat (Online)
 DTSTART:20251129T110000
 DTEND:20251129T160000
 DTSTAMP:20251006T173900Z
-DESCRIPTION:Geleiteter Online-Retreat des University of Edinburgh Chaplaincy (3 Sessions: Body Scan\, Movement\, Reflection). Zeit in CET. Primärquelle: epay.ed.ac.
-k LOCATION:Online (hosted by University of Edinburgh Chaplainc
-) TRANSP:TRANSPARE
+DESCRIPTION:Geleiteter Online-Retreat des University of Edinburgh Chaplaincy (3 Sessions: Body Scan, Movement, Reflection). Zeit in CET. Primärquelle: epay.ed.ac.uk
+LOCATION:Online (hosted by University of Edinburgh Chaplaincy)
+TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-Udavid-whyte-three-sundays-1-2025@comet.assistant
+UID:david-whyte-three-sundays-1-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — David Whyte: Three Sundays in November (Online) — Session 1
 DTSTART;VALUE=DATE:20251109
 DTEND;VALUE=DATE:20251110
 DTSTAMP:20251006T173900Z
-DESCRIPTION:Online-Serie zu Poesie\, Führung\, Sinn & Arbeit (3 Termine im November). Primärquelle: davidwhyte.com (Nov 2025 Series
-. LOCATION:Onli
-e TRANSP:TRANSPARE
+DESCRIPTION:Online-Serie zu Poesie, Führung, Sinn & Arbeit (3 Termine im November). Primärquelle: davidwhyte.com (Nov 2025 Series).
+LOCATION:Online
+TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
 UID:david-whyte-three-sundays-2-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — David Whyte: Three Sundays in November (Online) — Session 2
@@ -84,8 +100,10 @@ DTSTAMP:20251006T173900Z
 DESCRIPTION:Zweite Online-Session der November-Serie. Primärquelle: davidwhyte.com (Nov 2025 Series).
 LOCATION:Online
 TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-UID:david-whte-three-sundays-3-2025@comet.assistant
+UID:david-whyte-three-sundays-3-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — David Whyte: Three Sundays in November (Online) — Session 3
 DTSTART;VALUE=DATE:20251123
 DTEND;VALUE=DATE:20251124
@@ -93,17 +111,21 @@ DTSTAMP:20251006T173900Z
 DESCRIPTION:Dritte Online-Session der November-Serie. Primärquelle: davidwhyte.com (Nov 2025 Series).
 LOCATION:Online
 TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-UID:buch-wilhelmi-mindfulness-week-2025@comet.assistant
+UID:buchinger-wilhelmi-mindfulness-week-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — Mindfulness Meditation Week (Buchinger Wilhelmi)
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251129
 DTSTAMP:20251006T173900Z
-DESCRIPTION:Achtsamkeit\, Lu Jong\, buddhistische Psychologie (Leitung u. a. Tenzin Kalden). Ort: Überlingen\, Bodensee. Primärquelle: buchinger-wilhelmi.com (Events 2025/2
-). LOCATION:Überlingen\, Deutschland (Boden
-ee) TRANSP:TRANSPA
+DESCRIPTION:Achtsamkeit, Lu Jong, buddhistische Psychologie (Leitung u. a. Tenzin Kalden). Ort: Überlingen, Bodensee. Primärquelle: buchinger-wilhelmi.com (Events 2025/26).
+LOCATION:Überlingen, Deutschland (Bodensee)
+TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-UID:mbsr-swzerland-retreat-2025@comet.assistant
+UID:mbsr-switzerland-retreat-2025@comet.assistant
 SUMMARY:The Curated Calendar: Wisdom & Growth — MBSR-Verband Schweiz Retreat
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251109
@@ -111,13 +133,17 @@ DTSTAMP:20251006T173900Z
 DESCRIPTION:MBSR-Retreat in der Schweiz (3.–8. Nov 2025) gemäss EAMBA-Listung; genaue Location via Veranstalter. Primärquelle: eamba.net
 LOCATION:Schweiz (genauer Ort laut Veranstalter)
 TRANSP:TRANSPARENT
+END:VEVENT
+
 BEGIN:VEVENT
-Uembody-lab-peter-levine-masterclass-2025@comet.assistant
-SUMMARY:The Curated Calendar: Wisdom & Growth — Peter A. Levine: SE Demonstration (Online\, Embody Lab
-DTSTART;VALUE=DATE:2025111
-DTEND;VALUE=DATE:2025111
-DTSTAMP:20251006T173900
-DESCRIPTION:Live-Online-Demonstration/Teaching zur Traumaheilung (SE). Datum/Teilnahmebedingungen gemäss Eventseite (oft Member-Format). Primärquelle: theembodylab.co
-LOCATION:Online (The Embody Lab
-TRANSP:TRANSPAREN
+UID:embody-lab-peter-levine-masterclass-2025@comet.assistant
+SUMMARY:The Curated Calendar: Wisdom & Growth — Peter A. Levine: SE Demonstration (Online, Embody Lab)
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20251006T173900Z
+DESCRIPTION:Live-Online-Demonstration/Teaching zur Traumaheilung (SE). Datum/Teilnahmebedingungen gemäss Eventseite (oft Member-Format). Primärquelle: theembodylab.com
+LOCATION:Online (The Embody Lab)
+TRANSP:TRANSPARENT
+END:VEVENT
+
 END:VCALENDAR
